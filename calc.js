@@ -1,0 +1,7 @@
+// const math=require("./math")
+// console.log(math.add(2,3))
+const {add,sub,mult,div}=require("./math")
+console.log(add(4,6))
+console.log(sub(4,6))
+console.log(mult(4,6))
+console.log(div(8,4))
